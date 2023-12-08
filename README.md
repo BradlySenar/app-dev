@@ -1,5 +1,8 @@
 # app-dev
 My first repository
 
-First Term
-: This is the definition of the first term.
+|     Name      | Favorite Movie |     Genre     |
+| :---          |    :------:    |          ---: |
+|     Bradly    |     Matirx     |    Fantasy    |
+
+- [x] I also love anime series like Naruto
