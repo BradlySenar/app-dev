@@ -5,4 +5,4 @@ My first repository
 | :---          |    :------:    |          ---: |
 |     Bradly    |     Matirx     |    Fantasy    |
 
-- [x] I also love anime series like Naruto
+- [x] I also love anime series like Naruto, One Piece, etc,.
